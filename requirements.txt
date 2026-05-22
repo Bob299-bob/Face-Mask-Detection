@@ -2,4 +2,4 @@ streamlit
 tensorflow
 numpy
 matplotlib
-base64
+pillow

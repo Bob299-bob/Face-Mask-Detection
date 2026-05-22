@@ -1,6 +1,5 @@
-TensorFlow
-Keras
-CNN
-NumPy
-Streamlit
-Matplotlib
+streamlit
+tensorflow
+numpy
+matplotlib
+base64

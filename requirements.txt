@@ -1,0 +1,6 @@
+TensorFlow
+Keras
+CNN
+NumPy
+Streamlit
+Matplotlib
